@@ -1,3 +1,6 @@
+//In JavaScript, a declaration is when you define
+//  a variable, function, or class using specific keywords
+
 var name = "jatin-rajput";
 console.log(name);
 
