@@ -16,5 +16,3 @@ function cooding() {
     console.log("frontend-phase-1-student");
 }
 cooding();
-// ----------------------------------------------class-Declaration------------------------------------------//
-// -----------smjh-nahi-aya????------//

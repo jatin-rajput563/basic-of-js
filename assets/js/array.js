@@ -8,3 +8,6 @@
 let fruits = ["apple", "mango", "banana"];
 console.log(fruits[2]);
 
+let laptop = ["DELL", "HP", "Macbook"];
+console.log(laptop);
+

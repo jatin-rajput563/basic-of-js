@@ -11,3 +11,21 @@ let car = {
 };
 
 console.log(car.carModel);
+
+let bike = {
+    company: "Ducati",
+    bikeModel: "Panigale V4",
+    price: "₹24.8 lakhs",
+    color: "white",
+    model: "2024"
+};
+console.log(bike);
+
+let plane = {
+    company: "ATB",
+    planeModel: "Northrop B-2 Spirit",
+    price: "$4.04 billion",
+    color: "z-black",
+    model: "2023"
+};
+console.log(plane.planeModel);
